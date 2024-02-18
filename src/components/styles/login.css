@@ -1,0 +1,42 @@
+.container {
+    margin-top: 100px;
+    margin-left: 15%;
+  }
+  
+  .login {
+    width: 320px;
+    padding: 20px;
+    color: hsl(0, 0%, 37%);
+    background-color: hsl(207, 90%, 88%);
+    border-radius: 10px;
+    border: 2px solid #000;
+    margin-top: -20px;
+  }
+
+  .login h1{
+    padding: 10px;
+
+  }
+
+  .input{
+    margin-top: 10px;
+  }
+
+  .textbox{
+    padding: 5px;
+  }
+
+  .botao{
+    padding: 5px;
+    margin-left: 10px;
+  }
+
+  .aviso{
+    color: red;
+    margin-top: 10px;
+  }
+ 
+  
+  
+  
+  

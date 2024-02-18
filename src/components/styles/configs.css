@@ -1,0 +1,33 @@
+.container {
+    position: fixed;
+    margin-top: 120px;
+    margin-left: 200px; 
+  }
+  
+  .content {
+    width: 500px;
+    padding: 20px;
+    color: hsl(0, 0%, 37%);
+    background-color: hsl(207, 90%, 88%);
+    border-radius: 10px;
+    border: 2px solid #000;
+    margin-bottom: 20px;
+  }
+
+  .text_input{
+    margin-top: 10px;
+  }
+
+  .text_input input{
+    margin-top: 5px;
+    padding: 5px;
+  }
+
+  #salvar_btn{
+    margin-left: 10px;
+    padding: 5px;
+  }
+
+  ul{
+    list-style: none;
+  }

@@ -1,0 +1,82 @@
+.container {
+    position: fixed;
+    margin-top: 120px;
+    margin-left: 200px; 
+  }
+  
+  .cadastro {
+    width: 500px;
+    padding: 20px;
+    color: hsl(0, 0%, 37%);
+    background-color: hsl(207, 90%, 88%);
+    border-radius: 10px;
+    border: 2px solid #000;
+  }
+
+  .button-container {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+
+  .input input{
+    padding: 5px;
+    margin-top: 5px;
+  }
+
+  .input select{
+    padding: 5px;
+    margin-top: 5px;
+  }
+
+  .input button{
+    padding: 5px;
+    margin-left: 5px;
+  }
+
+  .rodape{
+    margin-top: 10px;
+  }
+
+  .rodape button{
+    padding: 5px;
+    margin-right: 10px;
+  }
+
+  #color{
+    padding: 0px;
+  }
+
+.radio{
+    margin-right: 10px;
+}
+
+.remove{
+  margin-left: 10px;
+  padding: 2px;
+}
+
+.alt{
+  margin-left: 20px;
+  padding: 2px;
+  width: 60px;
+}
+
+.larg{
+  margin-left: 10px;
+  padding: 2px;
+  width: 60px;
+}
+
+.adicionar{
+  margin-top: 10px;
+  padding: 2px;
+}
+
+.deletar {
+  margin-top: 10px;
+}
+
+h4{
+  margin-top: 20px;
+}
